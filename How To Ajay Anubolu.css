@@ -1,0 +1,45 @@
+﻿body {
+	background: 
+		linear-gradient(to bottom,orange,green)
+
+h1 {
+	font-weight: bold;
+}
+
+h2 {
+	font-style: italic;
+}
+
+body {
+	font-family: Calibri;
+}
+
+#Home {
+	border: inset #53D900;
+	
+background: url(https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif);
+
+	
+	no-repeat bottom;	
+}
+
+#About { 
+	border: groove #c9c200;
+
+background: url(https://i.giphy.com/media/Q9aBxHn9fTqKs/giphy.webp);
+	linear-gradient(to bottom,green,brown)
+	no-repeat bottom;
+}
+
+#HowTo {
+	border: outset #25cec0;
+
+background:
+	
+	linear-gradient(to bottom,red,black)
+	
+	no-repeat bottom;
+}
+
+font-family: Comis Sans MS;
+
