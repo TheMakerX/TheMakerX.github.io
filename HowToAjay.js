@@ -18,4 +18,3 @@ function openTab(tabName,elmt){
 	
 
 }
-document.getElementById("defaultOpen").click();
