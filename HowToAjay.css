@@ -15,14 +15,14 @@ h2 {
 
 #Home {
 	border: inset #53D900;
+background:	
 	linear-gradient(to bottom,yellow,pink);
-
-	
 	no-repeat bottom;	
 }
 
 #About { 
 	border: groove #c9c200;
+background:	
 	linear-gradient(to bottom,purple,brown);
 	no-repeat bottom;
 }
