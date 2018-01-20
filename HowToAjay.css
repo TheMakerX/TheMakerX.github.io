@@ -1,6 +1,6 @@
 ﻿body {
 	background: 
-		linear-gradient(to bottom,orange,green)
+		linear-gradient(to bottom,orange,green);
 		font-family: Calibri;
 }
 
@@ -15,7 +15,7 @@ h2 {
 
 #Home {
 	border: inset #53D900;
-	linear-gradient(to bottom,yellow,pink)
+	linear-gradient(to bottom,yellow,pink);
 
 	
 	no-repeat bottom;	
@@ -23,7 +23,7 @@ h2 {
 
 #About { 
 	border: groove #c9c200;
-	linear-gradient(to bottom,purple,brown)
+	linear-gradient(to bottom,purple,brown);
 	no-repeat bottom;
 }
 
@@ -32,7 +32,7 @@ h2 {
 
 background:
 	
-	linear-gradient(to bottom,red,black)
+	linear-gradient(to bottom,red,black);
 	
 	no-repeat bottom;
 }
