@@ -1,9 +1,6 @@
-﻿	window.alert("This is a guide on how to cook a burger.")
+window.alert("This is a guide on how to cook a burger.")
 
 document.getElementById("defaultOpen").click();
-
-function openTab(tabName, elmt){
-//This javascript goes along with my How To project
 
 function openTab(tabName,elmt){
 	var i, tabcontent;
@@ -15,6 +12,4 @@ function openTab(tabName,elmt){
 	
 	// Show the clicked tabName
 	document.getElementById(tabName).style.display = "block";
-	
-
 }
