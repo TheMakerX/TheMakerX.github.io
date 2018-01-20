@@ -1,7 +1,5 @@
 window.alert("This is a guide on how to cook a burger.")
 
-document.getElementById("defaultOpen").click();
-
 function openTab(tabName,elmt){
 	var i, tabcontent;
 	//Hide elements with class="tabcontent"
