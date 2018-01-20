@@ -15,8 +15,7 @@ h2 {
 
 #Home {
 	border: inset #53D900;
-	
-background: url(https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif);
+	linear-gradient(to bottom,yellow,pink)
 
 	
 	no-repeat bottom;	
@@ -24,9 +23,7 @@ background: url(https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif);
 
 #About { 
 	border: groove #c9c200;
-
-background: url(https://i.giphy.com/media/Q9aBxHn9fTqKs/giphy.webp);
-	linear-gradient(to bottom,green,brown)
+	linear-gradient(to bottom,purple,brown)
 	no-repeat bottom;
 }
 
